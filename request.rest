@@ -1,0 +1,21 @@
+
+
+http://localhost/mfee26-php/practice/a20220518-08-get.php
+
+##########
+
+http://localhost/mfee26-php/practice/a20220518-08-get.php?account=123456&password=123456
+
+#########
+
+get http://localhost/mfee26-php/practice/a20220518-08-get.php?account=123456&password=123456
+
+###
+
+
+post http://localhost/mfee26-php/practice/a20220518-09-post.php
+Content-Type: application/x-www-form-urlencoded
+
+account=7896&password=123456
+
+###
