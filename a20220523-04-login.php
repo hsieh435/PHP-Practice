@@ -6,15 +6,9 @@ $users = [
         'password' => '1234',
         'nickname' => '孔明'
     ],
-<<<<<<< HEAD
     'eiko' => [
         'password' => '5678',
         'nickname' => '英子'
-=======
-    'no_two' => [
-        'password' => '5678',
-        'nickname' => '關二哥'
->>>>>>> 0ae5a35ec893c2e184e8ed2abee3a5447aa51163
     ],
 ];
 

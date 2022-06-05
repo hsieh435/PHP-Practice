@@ -11,7 +11,6 @@
 <body>
     <?php
     echo $a;
-<<<<<<< HEAD
 
     // 語法上的錯誤程度
     // notice < warning < error
@@ -25,11 +24,9 @@
 -->
 
 
-=======
     // notice, warning, error
     // parse error, runtime error, logic error
     ?>
->>>>>>> 0ae5a35ec893c2e184e8ed2abee3a5447aa51163
 </body>
 
 </html>

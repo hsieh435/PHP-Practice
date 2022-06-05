@@ -8,3 +8,7 @@ if (password_verify($password, $hash)) {
 } else {
     echo '錯誤的密碼';
 }
+
+$password = '123456';
+
+echo password_hash($password, PASSWORD_BCRYPT);
